@@ -1,0 +1,256 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color:teal;
+    position: initial;
+    margin: -10px;
+}
+.nav-title{
+    color: white;
+    align-items: inherit;
+    gap: 100px;
+    
+}
+.nav-links{
+    display: flex;
+    justify-content: end;
+    height: 20px;
+    list-style: none;
+    align-items: center;
+    float: right;
+    margin: 30px;
+    gap: 20px;
+    color: white;
+}
+.btn{
+    display: flex;
+    justify-content:center;
+    color: whitesmoke;
+    background-color: cyan;
+    height: 30px;
+    width: 90px;
+    font-family: cursive;
+    }
+
+h1{color: black;}
+a{text-decoration: none;
+color: whitesmoke;}
+
+
+
+
+.header{
+    width: inherit;
+    border-radius: 5px;
+    background-color: cadetblue;
+    max-width: inherit;
+    height: 70px;
+
+
+}
+.box{
+    display: flex;
+    background-color: whitesmoke;
+    height: 300px;
+    width: 500px;
+    border-radius:5px;
+    position: relative;
+    margin: 20px 550px;
+    outline: black solid 1px;
+    
+}
+.bottom_box{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top:90px;
+}
+.container{
+    position: relative;
+}
+h2{
+    font-family: cursive;
+    font-size: inherit;
+}
+.pfp{
+    position:absolute;
+    bottom: 450px;
+    left: 20px;
+}
+
+.box_text{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+
+}
+.name{
+    font-size: 20px;
+    top: 10px;
+}
+.header_2{
+    background-color: cadetblue;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+    color:white ;
+}
+.box_2{
+    display: flex;
+    background-color: whitesmoke;
+    outline: black solid 1px;
+    height: 250px;
+    width: 300px;
+    margin: 0px 550px;
+}
+.todd_pfp{
+    position: absolute;
+    left: 580px;
+    bottom: 355px;
+    
+}
+.phil_pfp{
+    position: absolute;
+    left: 580px;
+    bottom: 425px;
+}
+.names{
+    position: absolute;
+    left: 600px;
+    list-style: none;
+    padding: 10px;
+}
+#phil{
+    position: absolute;
+    top: 80px;
+    left: 620px;
+}
+#todd{
+    position:absolute;
+    top: 150px;
+    left: 620px;
+    
+}
+.accept{
+    position: absolute;
+    left: 700px;
+    bottom: 430px;
+}
+.accept_2{
+    position: absolute;
+    left: 700px;
+    bottom: 360px;
+}
+.close{
+    position: absolute;
+    left: 740px;
+    bottom: 360px;
+}
+.close_2{
+    position: absolute;
+    left: 740px;
+    bottom: 430px;
+}
+.text_box2{
+    color: black;
+}
+.box_3{
+    display: flex;
+    background-color: whitesmoke;
+    outline: black solid 1px;
+    height: 400px;
+    width: 300px;
+    margin: 30px 550px;
+}
+.header_3{
+    background-color: cadetblue;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+    color:white ;
+    
+}
+.text_box3{
+    color: black;
+    margin: 70px 60px;
+    text-align: start;
+}
+.adrien_pfp{
+    position: absolute;
+    left: 580px;
+    bottom: 125px;
+    
+}
+.anne_pfp{
+    position: absolute;
+    left: 580px;
+    top: 135px;
+}
+.alayne_pfp{
+    position: absolute;
+    left: 580px;
+    top: 180px;
+    
+}
+.arry_pfp{
+    position: absolute;
+    left: 580px;
+    top: 230px;
+}
+.bottombox_3{
+    outline: black 1px;
+} 
+.header_4{
+    width: inherit;
+    border-radius: 5px;
+    background-color: cadetblue;
+    max-width: inherit;
+    height: 50px;
+}
+.box_4{
+    display: flex;
+    background-color: whitesmoke;
+    height: 250px;
+    width: 500px;
+    border-radius:5px;
+    position: relative;
+    margin: -400px 1px;
+    outline: black solid 1px;
+}
+.bottom_box_4{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top:90px;
+}
+.container_4{
+    position: relative;
+}
+.header_4{
+    height: 70px;
+    width: 100%;
+    text-align: justify;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+    color:white ;
+}
+.name_4{
+    color: black;
+font-size: 20px;
+}
+.bottom_text_4{
+    color: black;
+}
+.bottom_box_4{
+    text-align: center;
+}
+
+
+    
